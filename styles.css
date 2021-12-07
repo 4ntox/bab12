@@ -1,0 +1,26 @@
+#form .col {
+    
+    font-weight: bolder;
+    min-height: 400px;
+    color: rgb(3, 5, 124);
+    background-color: gold;
+    font-style: normal;
+
+}
+
+body {
+    background-color: rgb(146, 27, 175);
+}
+
+.judul h1 {
+    font-style: oblique;
+    background-color: rgb(64, 207, 207);
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+.judul {
+    padding-top: 30px;
+    
+}
